@@ -1,6 +1,6 @@
 # ROS2 TurtleBot3 장애물 회피
 
-TurtleBot3 LiDAR(`/scan`)를 보고 `/cmd_vel`로 직진·회전하는 ROS 2 노드입니다.
+TurtleBot3 LiDAR(`/scan`)를 보고 `/cmd_vel`로 직진,회전하는 ROS 2 노드입니다.
 
 - ROS 2 Jazzy, C++, Gazebo
 - 전방 0.5m 이하면 회전, 아니면 직진
